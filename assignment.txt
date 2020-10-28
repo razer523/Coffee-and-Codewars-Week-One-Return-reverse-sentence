@@ -1,0 +1,13 @@
+words that are inputed of 5 or more letters, the word is returned in reverse
+
+the order does not change
+
+spaces are preserved
+
+need a way to split the sentence into individual words
+
+need to take one word at a time and check if it is longer than 5 letters
+.if > 5, we reverse word
+.if <5, we leave alone
+
+we need to combine words back into a new sentence with spaces
